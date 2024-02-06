@@ -6,7 +6,7 @@ programa
 		inteiro vet[] = {2,5,1,3,4,9,7,8,10,6}
 		inteiro i,a,b
 
-
+//Comentário
 		escreva("Números desordenados: ")
 		para (i = 0; i < 10; i++)
 			escreva(vet[i], ",")
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 309; 
+ * @POSICAO-CURSOR = 103; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
